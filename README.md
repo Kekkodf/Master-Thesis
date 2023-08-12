@@ -1,5 +1,5 @@
 # Master-Thesis
-Master Thesis project - Master degree in Cybersecurity at UniPD
+Master Thesis project - Master's degree in Cybersecurity at UniPD
 
 Supervisor: Prof. Nicola Ferro
 Co-Supervisor: Prof. Guglielmo Faggioli
@@ -9,7 +9,7 @@ This repository contains the LaTeX source code of the Master Thesis and the code
 ## Structure
 
 ## Abstract - Informal
-The premisis of this thesis is Privacy Preserving Information Access on e-Helth data. The main goal is to provide a solution to the problem of sharing data between different entities, such as hospitals, research centers, etc. 
+The premise of this thesis is Privacy-Preserving Information Access on e-Helth data. The main goal is to provide a solution to the problem of sharing data between different entities, such as hospitals, research centers, etc. 
 
 # Possible thematic
 - k-anonymity, l-diversity, t-closeness
